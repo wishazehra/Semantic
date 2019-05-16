@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/RDF-master.iml" filepath="$PROJECT_DIR$/.idea/RDF-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jena-examples/jena-examples.iml" filepath="$PROJECT_DIR$/jena-examples/jena-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jenaSemanticMovieDB/jenaSemanticMovieDB.iml" filepath="$PROJECT_DIR$/jenaSemanticMovieDB/jenaSemanticMovieDB.iml" />
     </modules>
   </component>
 </project>
